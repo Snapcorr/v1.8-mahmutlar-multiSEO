@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahmutlar-v18.vercel.app/sitemap.xml
